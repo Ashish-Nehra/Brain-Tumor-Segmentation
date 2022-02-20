@@ -26,7 +26,7 @@ keras.metrics - MeanIoU
 segmentation_models_3D
 ```
 
-Download external pakages used from: 
+Install external pakages used from: 
 
 [Split Folders](https://pypi.org/project/split-folders) 
 
